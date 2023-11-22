@@ -12,7 +12,8 @@ This program was created for educational and informational purposes only. It is 
 ## Overview:
 
 ![image](https://github.com/Nellose/Losser-DoS/assets/151440407/06a0cf96-6645-4859-b48d-7f3fdc5bf969)
-![image](https://github.com/Nellose/Losser-DoS/assets/151440407/077285f4-8553-4fea-932e-95da31460889)
+![image](https://github.com/Nellose/Losser-DoS/assets/151440407/18be4c7c-40a4-4420-9493-7ac10ab064bf)
+
 
 
 ## Disclaimer:
