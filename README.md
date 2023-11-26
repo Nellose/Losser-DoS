@@ -1,7 +1,11 @@
 # Nellose DoS-Attack Tool
 
-- Download (Build) (2.0): click
-- Download (Build) (1.0): click
+- Download (Build) (2.0): [click](https://github.com/Nellose/Losser-DoS/releases/download/v2.0/build.rar)
+- Download (Build) (1.0): [click](https://github.com/Nellose/Losser-DoS/releases/download/v1.0/build.rar)
+
+
+
+
 
 ## Update 2.0:
 
