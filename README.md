@@ -20,7 +20,7 @@ This program is created for educational and informational purposes only. It aims
 
 ## Overview:
 ![Tool Overview](https://github.com/Nellose/Losser-DoS/assets/151440407/99f841b0-3943-4de0-9233-b132577d1410) 
-- Version 2.0
+- **Version 2.0**
 
 ## Disclaimer:
 
