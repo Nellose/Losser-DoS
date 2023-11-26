@@ -16,10 +16,8 @@ This program was created for educational and informational purposes only. It is 
 - **Type:** Console Application
 
 ## Overview:
-![image](https://github.com/Nellose/Losser-DoS/assets/151440407/99f841b0-3943-4de0-9233-b132577d1410) - Version 2.0
-![image](https://github.com/Nellose/Losser-DoS/assets/151440407/18be4c7c-40a4-4420-9493-7ac10ab064bf)
-
-
+![image](https://github.com/Nellose/Losser-DoS/assets/151440407/99f841b0-3943-4de0-9233-b132577d1410) 
+- Version 2.0
 
 ## Disclaimer:
 
