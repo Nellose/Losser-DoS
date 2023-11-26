@@ -1,5 +1,11 @@
 # Nellose DoS-Attack Tool
 
+## Update 2.0 :
+
+- Improved design.
+- Utilization of various attack methods.
+- Added user-agents.
+
 ## Purpose of the Program:
 
 This program was created for educational and informational purposes only. It is intended for learning about cybersecurity, testing network resilience, and understanding the impact of denial-of-service (DoS) attacks. Any misuse or unauthorized use of this tool is strongly discouraged.
