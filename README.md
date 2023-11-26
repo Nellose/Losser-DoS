@@ -9,7 +9,7 @@
 - Utilization of various attack methods.
 - Added user-agents.
 
-## Purpose:
+## Purpose of the Program:
 
 This program is created for educational and informational purposes only. It aims to facilitate learning about cybersecurity, testing network resilience, and understanding the impact of denial-of-service (DoS) attacks. Misuse or unauthorized use of this tool is strongly discouraged.
 
