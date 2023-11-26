@@ -1,6 +1,9 @@
 # Nellose DoS-Attack Tool
 
-## Update 2.0 :
+Download (Build) (2.0): click
+Download (Build) (1.0): click
+
+## Update 2.0:
 
 - Improved design.
 - Utilization of various attack methods.
