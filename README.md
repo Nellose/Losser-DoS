@@ -1,11 +1,7 @@
 # Nellose DoS-Attack Tool
 
-- Download (Build) (2.0): [click](https://github.com/Nellose/Losser-DoS/releases/download/v2.0/build.rar)
-- Download (Build) (1.0): [click](https://github.com/Nellose/Losser-DoS/releases/download/v1.0/build.rar)
-
-
-
-
+[![GitHub Release (2.0)](https://img.shields.io/badge/Download%20(Build)%20(2.0)-click-blue)](https://github.com/Nellose/Losser-DoS/releases/download/v2.0/build.rar)
+[![GitHub Release (1.0)](https://img.shields.io/badge/Download%20(Build)%20(1.0)-click-blue)](https://github.com/Nellose/Losser-DoS/releases/download/v1.0/build.rar)
 
 ## Update 2.0:
 
@@ -13,9 +9,9 @@
 - Utilization of various attack methods.
 - Added user-agents.
 
-## Purpose of the Program:
+## Purpose:
 
-This program was created for educational and informational purposes only. It is intended for learning about cybersecurity, testing network resilience, and understanding the impact of denial-of-service (DoS) attacks. Any misuse or unauthorized use of this tool is strongly discouraged.
+This program is created for educational and informational purposes only. It aims to facilitate learning about cybersecurity, testing network resilience, and understanding the impact of denial-of-service (DoS) attacks. Misuse or unauthorized use of this tool is strongly discouraged.
 
 ## Technical Details:
 
@@ -23,13 +19,13 @@ This program was created for educational and informational purposes only. It is 
 - **Type:** Console Application
 
 ## Overview:
-![image](https://github.com/Nellose/Losser-DoS/assets/151440407/99f841b0-3943-4de0-9233-b132577d1410) 
+![Tool Overview](https://github.com/Nellose/Losser-DoS/assets/151440407/99f841b0-3943-4de0-9233-b132577d1410) 
 - Version 2.0
 
 ## Disclaimer:
 
-This program is developed and shared solely for educational and testing purposes. The author and contributors of this tool are not responsible for any misuse or damage caused by the program. It is intended for responsible and ethical use only.
+This program is developed and shared solely for educational and testing purposes. The author and contributors are not responsible for any misuse or damage caused by the program. It is intended for responsible and ethical use only.
 
 ---
 
-**Note:** The use of denial-of-service attacks is against ethical guidelines and potentially illegal. It is crucial to use programming skills responsibly and ethically. The author encourages users to respect ethical standards and comply with relevant laws and regulations.
+**Note:** Denial-of-service attacks are against ethical guidelines and potentially illegal. Use programming skills responsibly and ethically. The author encourages users to respect ethical standards and comply with relevant laws and regulations.
